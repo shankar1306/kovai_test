@@ -4,7 +4,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) on fold
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 -  Python 3
 - `requests` library for making HTTP calls
