@@ -1,4 +1,4 @@
-# 📁 Document360 API - Folder Management (Migration Task)
+#  Document360 API - Folder Management (Migration Task)
 
 This project demonstrates CRUD operations (Create, Read, Update, Delete) on folders using the [Document360 API](https://docs.document360.io/docs/rest-api). It was developed as part of a Migration Specialist internship task to showcase API usage, automation, and data handling.
 
@@ -6,13 +6,13 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) on fold
 
 ## 🔧 Technologies Used
 
-- 🐍 Python 3
+-  Python 3
 - `requests` library for making HTTP calls
 - `tabulate` library for CLI table formatting
 
 ---
 
-## ✅ Features
+##  Features
 
 -  **GET**: Fetch and display all folders (including subfolders) in a tabular format.
 -  **POST**: Create a new folder under a specified parent folder.
@@ -22,7 +22,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) on fold
 
 ---
 
-## 📂 Folder Operations Included
+##  Folder Operations Included
 
 | Operation | HTTP Method | File / Function |
 |-----------|-------------|-----------------|
